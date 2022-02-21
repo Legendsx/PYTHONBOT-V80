@@ -15,7 +15,7 @@ ITS ALL CREDITS GOES TO LEGEND-LX.
 USERNAME = ⚜[LEGEND-LX](https://github.com/LEGEND-LX)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V80)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Legendsx/PYTHONBOT-V9)
 __________COMING_SOON_______
 <p><a href=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
@@ -57,3 +57,4 @@ Contact Me
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)
+
